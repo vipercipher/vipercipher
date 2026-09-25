@@ -1,10 +1,16 @@
 # Hi, I'm Jay 👋
 
-I'm a Sydney-based IT and cybersecurity professional who enjoys the practical side of security: keeping accounts safe, spotting when something looks off, and building things that people can actually rely on.
+### Identity & Access Security · Sydney
 
-By day I work as an **IT Support Specialist at Zencyber**, where I look after Microsoft 365 and Entra ID for small business clients: user accounts, MFA, access issues, and keeping an eye on activity in Microsoft Defender and Sentinel. Account access is where a lot of attacks begin, so I've learned to slow down, verify requests properly, and escalate anything unusual with clear notes.
+Most breaches don't start with clever hacking. They start with someone logging in. A reused password, a skipped MFA prompt, a convincing "I'm locked out, can you reset me?" request. **That's the problem I care about: making sure the right people get in, and everyone else doesn't.**
 
-Outside of work, I build and secure websites for small businesses, practise attack and defence in my own labs, and write small tools that solve everyday problems.
+I work on this every day as an **IT Support Specialist at Zencyber**, managing Microsoft Entra ID and Microsoft 365 identities for small business clients. That means enforcing MFA, handling Conditional Access and SSO issues, running joiners and leavers cleanly, and verifying every reset request before I touch an account. I watch sign-in and device activity in **Microsoft Sentinel and Defender**, and escalate anything suspicious with clear evidence.
+
+I bring the same mindset to what I build. On the AWS site I delivered for an NDIS provider, I used **Cognito** for authentication and **IAM** to give each service only the access it needs, because the same principles apply whether you're protecting staff accounts or a Lambda function.
+
+**Specialising in:** Microsoft Entra ID · MFA & Conditional Access · Least-privilege access · Cloud identity (AWS IAM & Cognito) · Sign-in threat monitoring
+
+**Backed by:** SC-200 · PCNSA · CCNA · Network+ · Master of IT (Network & Information Security)
 
 **What I'm focused on:** Identity & Access Management · Security Operations · Cloud Security · Network Security
 
