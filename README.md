@@ -80,8 +80,18 @@ A native iOS app that replaces phone-call-and-text rostering with a simple workf
 
 ## 🛠 Tools I've built
 
+Small, focused browser tools that fix everyday annoyances. They're privacy-friendly and run entirely in your browser.
+
 ### [Clean Link Copier](https://github.com/vipercipher/clean-link-copier)
-A Chrome extension that strips tracking parameters (utm_*, fbclid, gclid and others) from links before you share them. People pass on links every day that quietly carry data about where they came from. This removes it in one click. Runs entirely in your browser, collects no data, and handles edge cases like browser-internal pages gracefully.
+A Chrome extension that strips tracking parameters (utm_*, fbclid, gclid and others) from links before you share them. People pass on links every day that quietly carry data about where they came from. This removes it in one click. Collects no data, and handles edge cases like browser-internal pages gracefully.
+
+### [YouTube Auto Skip](https://github.com/vipercipher/yt-auto-skip)
+A Chrome, Edge and Brave extension that clicks YouTube's **Skip Ad** button the moment it appears, usually within half a second, so you never have to reach for the mouse. It also closes the small banner ads that pop up over videos.
+
+- Uses a `MutationObserver` to react instantly when the player changes, with a lightweight polling fallback
+- Popup with an on/off switch and a counter of how many ads it has skipped
+- Doesn't block ads or interfere with YouTube, it just clicks the Skip button you'd click yourself
+- No data leaves your browser, and the only permission it uses is local storage for your settings
 
 ---
 
