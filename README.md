@@ -16,9 +16,19 @@
 
 - **[Clean Link Copier](https://github.com/vipercipher/clean-link-copier)**: Chrome extension that strips tracking junk (utm_*, fbclid, gclid) from links before you share them. Local-only, no data collected.
 
+## 🌐 Websites I've built
+
+- **[Emuability](https://www.emuability.com.au)**: serverless website for a registered NDIS provider, built on AWS.
+  - **S3 + CloudFront** for hosting and global delivery, **ACM** for HTTPS
+  - **Lambda + DynamoDB** for referral, booking and feedback form handling
+  - **Cognito** for secure authentication
+  - Accessibility options (text size, high contrast, reduced motion)
+  
+- **[MercyLight](https://www.mercylight.com.au)**: website for an NDIS disability services provider, built on Squarespace, with service pages, careers and contact flows.
+
 ## 🧰 Skills & tools
 
-Burp Suite · Nmap · Threat Modeling · Vulnerability Assessment · JavaScript · Git
+Burp Suite · Nmap · Threat Modeling · Vulnerability Assessment · AWS (S3, CloudFront, ACM, Lambda, DynamoDB, Cognito) · HTML/CSS · JavaScript · Web Accessibility · Git
 
 ## 🤳 Connect with me
 
