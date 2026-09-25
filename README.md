@@ -78,6 +78,17 @@ A native iOS app that replaces phone-call-and-text rostering with a simple workf
 
 ---
 
+### 🔎 Search visibility (SEO)
+
+I set websites up so small businesses can be found by the people looking for them:
+
+- **Technical SEO:** fast-loading pages, mobile-friendly design, clean page titles and meta descriptions, and a sitemap so Google can find every page
+- **Local search:** Google Business Profile setup so the business shows up in local searches and on Google Maps
+- **Google Search Console:** connecting the site to Google, submitting pages for indexing, and monitoring how people find it
+- **Accessible, well-structured content:** clear headings and descriptive text help both search engines and people using screen readers
+
+Rankings depend on competition and time, so I focus on doing the fundamentals properly and tracking real results rather than promising a position.
+
 ## 🛠 Tools I've built
 
 Small, focused browser tools that fix everyday annoyances. They're privacy-friendly and run entirely in your browser.
