@@ -18,11 +18,14 @@ For both clients I handled everything from the first logo sketch to the last DNS
 
 ### [Emuability](https://www.emuability.com.au): registered NDIS provider, NSW
 - **Branding & design:** created the logo, visual identity and every graphic used on the site
-- **Serverless AWS build:**
-  - **S3 + CloudFront** for fast, reliable hosting
-  - **AWS Certificate Manager** for HTTPS across the site
-  - **Lambda + DynamoDB** to process referral, booking and feedback forms
+- **Serverless AWS build**, hosted in the Sydney region (ap-southeast-2):
+  - **S3 + CloudFront** for fast, reliable hosting and delivery
+  - **AWS Certificate Manager (ACM)** for HTTPS across the site
+  - **Lambda** to process referral, booking, feedback and contact form submissions
+  - **DynamoDB** to store form submissions securely
+  - **Amazon SES** to send email notifications when a new form comes in
   - **Cognito** for secure authentication
+  - **IAM** roles and policies so each service only has the permissions it needs
 - **Accessibility built in:** adjustable text size, high-contrast mode and reduced motion, plus an accessibility statement and privacy policy
 - **Domain, DNS & email:** managed on GoDaddy, with business email set up through Microsoft 365 admin
 
@@ -72,7 +75,7 @@ I learn best by doing, so most of what I study ends up as a hands-on lab.
 | **Security operations** | Microsoft Sentinel, Microsoft Defender, Elastic Security, alert triage, detection rules, MITRE ATT&CK |
 | **Offensive security** | Burp Suite, Nmap, vulnerability assessment, threat modeling |
 | **Identity & access** | Microsoft Entra ID, MFA, SSO, Conditional Access, Intune |
-| **Cloud** | AWS (S3, CloudFront, ACM, Lambda, DynamoDB, Cognito), Azure VMs |
+| **Cloud** | AWS (S3, CloudFront, ACM, Lambda, DynamoDB, SES, Cognito, IAM), Azure VMs |
 | **Networking** | TCP/IP, DNS, DHCP, VLANs, VPN, routing & switching, Palo Alto firewalls |
 | **IT administration** | Microsoft 365 admin, Exchange Online, DNS management (GoDaddy) |
 | **Web & design** | HTML/CSS, JavaScript, Squarespace, web accessibility, logo & UI design |
