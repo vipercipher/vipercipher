@@ -87,7 +87,7 @@ I learn best by doing, so most of what I study ends up as a hands-on lab.
 
 I'm always happy to talk security, swap lab ideas, or help a small business get its tech sorted properly. I'm currently open to opportunities in **security operations, identity & access management and cloud security**.
 
-[LinkedIn](https://linkedin.com/in/jayshrestha55) · [Twitter/X](https://twitter.com/jayson081)
+[LinkedIn](https://linkedin.com/in/jayshrestha55)
 
 ---
 *All offensive security testing shown here was performed in authorized lab environments.*
