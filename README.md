@@ -18,7 +18,7 @@ I bring the same mindset to what I build. On the AWS platform I've delivered for
 
 - 📱 Building **EmuShifts**, an iOS shift management app for an NDIS provider
 - 🛡️ Running a **home SOC lab on Elastic Security**, simulating attacks and writing detection rules
-- 🧩 Maintaining **[Clean Link Copier](https://github.com/vipercipher/clean-link-copier)**, my privacy-focused Chrome extension
+- 🧩 Maintaining two privacy-friendly browser extensions: **[Clean Link Copier](https://github.com/vipercipher/clean-link-copier)** and **[YouTube Auto Skip](https://github.com/vipercipher/yt-auto-skip)**
 - 🌐 Looking after the websites, domains and email for two NDIS providers
 <!-- 📚 Studying for SC-300 (Identity and Access Administrator)   ← uncomment only if true -->
 
