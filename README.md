@@ -153,7 +153,7 @@ I learn best by doing, so most of what I study ends up as a hands-on lab.
 
 ---
 
-## 🤝 Let's connect
+## 🤝 Let's Connect & Grow Together
 
 I'm always happy to talk identity security, swap lab ideas, or help a small business get its tech set up properly. I'm open to opportunities in **identity & access management, security operations and cloud security**.
 
