@@ -1,6 +1,6 @@
 # Hi, I'm Jay 👋
 
-### Tech Savvy · Full-Stack IT & Cybersecurity Consultant or Technology Solutions Specialist · Sydney, Australia
+### Tech Savvy · Full-Stack IT & Cybersecurity Consultant or Technology Solutions Specialist
 
 Most breaches don't start with clever hacking. They start with someone logging in. A reused password, a skipped MFA prompt, a convincing "I'm locked out, can you reset me?" request. **That's the problem I care about: making sure the right people get in, and everyone else doesn't.**
 
