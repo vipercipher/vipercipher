@@ -112,7 +112,7 @@ I learn best by doing, so most of what I study ends up as a hands-on lab.
 
 | Project | What I did |
 |---|---|
-| **Home SOC Lab (Elastic Security)** | Deployed Elastic Defend on a Windows VM, ran simulated attacks, investigated the alerts they triggered and wrote my own detection rules |
+| **[Home SOC Lab (Elastic Security)](https://github.com/vipercipher/soc-lab-beginner)** | Deployed Elastic Defend on a Windows VM, ran simulated attacks, investigated the alerts they triggered and wrote my own detection rules |
 | **[Threat Modeling (Capstone)](https://github.com/vipercipher/ThreatModelingProject)** | Mapped a system's attack surface, identified likely threats and proposed mitigations |
 | **[SQL Injection with Burp Suite](https://github.com/vipercipher/SQLiVuln)** | Found and exploited SQL injection in a lab environment and documented how to prevent it |
 | **[Network Enumeration with Nmap](https://github.com/vipercipher/NetworkEnumerationNMAP)** | Host discovery, port scanning and service enumeration |
