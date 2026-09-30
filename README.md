@@ -142,8 +142,9 @@ I learn best by doing, so most of what I study ends up as a hands-on lab.
 | Area | Tools & skills |
 |---|---|
 | **Identity & access** | Microsoft Entra ID, MFA, SSO, Conditional Access, Intune, AWS IAM, AWS Cognito |
-| **Security operations** | Microsoft Sentinel, Microsoft Defender, Elastic Security, alert triage, detection rules, MITRE ATT&CK |
-| **Offensive security** | Burp Suite, Nmap, vulnerability assessment, threat modeling |
+| **Security operations** | Microsoft Sentinel, Microsoft Defender, Elastic Security, alert triage, detection rules, MITRE ATT&CK, Wireshark |
+| **Frameworks (familiar)** | NIST Cybersecurity Framework, Essential Eight (ACSC), MITRE ATT&CK, OSINT |
+| **Offensive security** | Burp Suite, Nmap, vulnerability assessment, OWASP threat modeling & Top 10 |
 | **Cloud** | AWS (S3, CloudFront, ACM, Lambda, API Gateway, DynamoDB, SES), Azure VMs |
 | **Networking** | TCP/IP, DNS, DHCP, VLANs, VPN, routing & switching, Palo Alto firewalls |
 | **IT administration** | Microsoft 365 admin, Exchange Online, DNS management (GoDaddy) |
