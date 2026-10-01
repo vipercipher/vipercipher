@@ -104,6 +104,14 @@ A Chrome, Edge and Brave extension that clicks YouTube's **Skip Ad** button the 
 - Doesn't block ads or interfere with YouTube, it just clicks the Skip button you'd click yourself
 - No data leaves your browser, and the only permission it uses is local storage for your settings
 
+### [RentRise.au](https://rentrise.au) · [repo](https://github.com/vipercipher/rentrise)
+A free website that checks whether an Australian rent increase follows the law. Renters answer a few questions from their notice and get a clear verdict, the earliest date the new rent can legally start, their tribunal deadline, and a ready-to-send message for their agent. I built it because rent increase rules differ by state, change often, and most online advice contradicts itself.
+
+- **Queensland and NSW checkers** built from official sources (RTA, NSW Fair Trading, Tenants' Union of NSW), with plain-English rules guides
+- **Privacy by design:** all calculations run in the browser, so nothing renters enter is sent anywhere. Self-hosted fonts, no ads or tracking cookies
+- **Hardened like production:** strict Content Security Policy, HSTS and other security headers, and an hCaptcha-protected contact form that only loads when used
+- **Deployed on Cloudflare Pages** with custom domain, DNS, email routing and cookie-free analytics, plus Google Search Console and structured data for search visibility
+
 ---
 
 ## 🔐 Security projects & labs
@@ -145,7 +153,7 @@ I learn best by doing, so most of what I study ends up as a hands-on lab.
 | **Security operations** | Microsoft Sentinel, Microsoft Defender, Elastic Security, alert triage, detection rules, MITRE ATT&CK, Wireshark |
 | **Frameworks (familiar)** | NIST Cybersecurity Framework, Essential Eight (ACSC), MITRE ATT&CK, OSINT |
 | **Offensive security** | Burp Suite, Nmap, vulnerability assessment, OWASP threat modeling & Top 10 |
-| **Cloud** | AWS (S3, CloudFront, ACM, Lambda, API Gateway, DynamoDB, SES), Azure VMs |
+| **Cloud** | AWS (S3, CloudFront, ACM, Lambda, API Gateway, DynamoDB, SES), Azure VMs, Cloudflare (Pages, DNS, Email Routing, Web Analytics) |
 | **Networking** | TCP/IP, DNS, DHCP, VLANs, VPN, routing & switching, Palo Alto firewalls |
 | **IT administration** | Microsoft 365 admin, Exchange Online, DNS management (GoDaddy) |
 | **App & web development** | Swift/SwiftUI, HTML/CSS, JavaScript, Squarespace, web accessibility |
