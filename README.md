@@ -1,3 +1,5 @@
+# Hi, I'm Jay 👋
+
 I'm an IT Support Specialist at **Zencyber**, where I look after identity security for small businesses: MFA, Conditional Access, safe account resets, and watching sign-ins in Sentinel and Defender.
 
 Outside that, I build. I've delivered secure, accessible websites on AWS for two NDIS providers, I'm building an iOS rostering app for one of them, and I make small privacy-friendly tools. I practise detection in a home SOC lab.
