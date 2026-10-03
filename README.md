@@ -1,16 +1,8 @@
-# Hi, I'm Jay 👋
+I'm an IT Support Specialist at **Zencyber**, where I look after identity security for small businesses: MFA, Conditional Access, safe account resets, and watching sign-ins in Sentinel and Defender.
 
-### Tech Savvy · Full-Stack IT & Cybersecurity Consultant or Technology Solutions Specialist
+Outside that, I build. I've delivered secure, accessible websites on AWS for two NDIS providers, I'm building an iOS rostering app for one of them, and I make small privacy-friendly tools. I practise detection in a home SOC lab.
 
-Most breaches don't start with clever hacking. They start with someone logging in. A reused password, a skipped MFA prompt, a convincing "I'm locked out, can you reset me?" request. **That's the problem I care about: making sure the right people get in, and everyone else doesn't.**
-
-I work on this every day as an **IT Support Specialist at Zencyber**, managing Microsoft Entra ID and Microsoft 365 identities for small business clients. That means enforcing MFA, handling Conditional Access and SSO issues, running joiners and leavers cleanly, and verifying every reset request before I touch an account. I watch sign-in and device activity in **Microsoft Sentinel and Defender**, and escalate anything suspicious with clear evidence.
-
-I bring the same mindset to what I build. On the AWS platform I've delivered for an NDIS provider, I use **Cognito** for authentication and **IAM** to give each service only the access it needs, because the same principles apply whether you're protecting staff accounts or a Lambda function.
-
-**Specialising in:** Microsoft Entra ID · MFA & Conditional Access · Least-privilege access · Cloud identity (AWS IAM & Cognito) · Sign-in threat monitoring
-
-**Backed by:** SC-200 · PCNSA · CCNA · Network+ · Master of IT (Network & Information Security)
+Whatever I'm working on, I try to keep it secure, simple and easy for people to use.
 
 ---
 
